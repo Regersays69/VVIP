@@ -1,4 +1,5 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=MANDIRI+NETWORK+VPN" /></p>
+
 ### INSTALL SCRIPT 
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Regersays69/VVIP/main/main.sh && chmod +x main.sh && ./main.sh
